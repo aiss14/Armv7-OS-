@@ -1,0 +1,7 @@
+-Iinclude
+-Wall
+-Wextra
+-ffreestanding
+-mcpu=cortex-a7
+-O2
+-ggdb

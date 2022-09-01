@@ -1,0 +1,12 @@
+# make outputs
+build
+kernel_dump.s
+submission.tar.gz
+
+# personal configs
+.vscode
+gdb_cmd
+
+# others
+output.txt
+.idea/*
